@@ -13,6 +13,7 @@ templates - folder containing html temlplates used for the application
 Requirments
 
 Python 2.7
+sqlalchemy
 
 Running the Restaurant Menu App
 
